@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#2A7DE1" />
+  
+  <!-- Heart Shape -->
+  <path d="M100 150C85 135 55 110 55 80C55 55 75 40 100 70C125 40 145 55 145 80C145 110 115 135 100 150Z" fill="#FFFFFF" />
+  
+  <!-- Brain Detail -->
+  <path d="M80 90C75 85 73 78 75 72C77 66 82 62 88 62C94 62 100 66 100 72M120 90C125 85 127 78 125 72C123 66 118 62 112 62C106 62 100 66 100 72" stroke="#4ECB71" stroke-width="4" fill="none" />
+  
+  <!-- Digital Circuit Lines -->
+  <path d="M40 100H60M140 100H160M100 40V60M100 140V160" stroke="#7C4DFF" stroke-width="3" />
+  <circle cx="60" cy="100" r="5" fill="#7C4DFF" />
+  <circle cx="140" cy="100" r="5" fill="#7C4DFF" />
+  <circle cx="100" cy="60" r="5" fill="#7C4DFF" />
+  <circle cx="100" cy="140" r="5" fill="#7C4DFF" />
+  
+  <!-- Text -->
+  <text x="100" y="190" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="20" fill="#2A7DE1">HealthAI</text>
+</svg>
